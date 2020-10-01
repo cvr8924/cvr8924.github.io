@@ -1,4 +1,4 @@
-## Welcome to Cameron Robinson's Github project
+## About Me
 
 My name is Cameron Robinson. I am 18 years old, My pronouns are He/Him/His and from Plainview New York. I went to Plainview Old Bethpage John F Kennedy High School. I am a Software Engineering major. My hobbies include playing dungeons and dragons and videogames, reading comic books and watching youtube. Lately I've been playing a lot of destiny and among us. I am looking forward to the rest of the year at RIT!.
 
