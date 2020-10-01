@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to Cameron Robinson's Github project
 
-You can use the [editor on GitHub](https://github.com/cvr8924/cvr8924.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Cameron Robinson. I am 18 years old, My pronouns are He/Him/His and from Plainview New York. I went to Plainview Old Bethpage John F Kennedy High School. I am a Software Engineering major. My hobbies include playing dungeons and dragons and videogames, reading comic books and watching youtube. Lately I've been playing a lot of destiny and among us. I am looking forward to the rest of the year at RIT!.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### My Favorite Food:
+![image](https://www.101cookingfortwo.com/wp-content/uploads/2011/11/Chicken-Parmesan-on-plate-720.jpg)
 
-### Markdown
+### RIT SE
+SE Dept: [Link](https://www.rit.edu/computing/department-software-engineering)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+SWEN101: [Link](http://www.se.rit.edu/~swen-101/00/index.html)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cvr8924/cvr8924.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### What I'd like to learn
+- What SE at RIT is about
+- How to build and maintain good software
+- What it's like to work in software engineering
+- How to start and lead good software driven projects
